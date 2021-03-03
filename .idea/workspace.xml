@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3016c930-e664-4375-a422-53575a793881" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+    <option name="SCHEME" value="Project" />
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="JRebelWorkspace">
+    <option name="jrebelEnabledAutocompile" value="true" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\apache-maven-3.6.0\localRepository" />
+        <option name="mavenHome" value="C:\Program Files\apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.0\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="jdkForImporter" value="1.8" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="1iqqU6ICIS8iDVRXWsMMsDhncMb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mongo&#10;mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="LombokPluginEnabledInProject" value="true" />
+    <property name="LombokPluginIS_ANNOTATION_PROCESSING_CHECK_Enabled" value="false" />
+    <property name="LombokPluginIS_BUILDER_Enabled" value="true" />
+    <property name="LombokPluginIS_CONSTRUCTOR_Enabled" value="true" />
+    <property name="LombokPluginIS_DELEGATE_Enabled" value="true" />
+    <property name="LombokPluginIS_LOG_Enabled" value="true" />
+    <property name="LombokPluginIS_LOMBOK_VERSION_CHECK_Enabled" value="false" />
+    <property name="LombokPluginIS_MISSING_LOMBOK_CHECK_Enabled" value="false" />
+    <property name="LombokPluginIS_VAL_Enabled" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="js.last.introduce.type" value="VAR" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\workspace\seckill-demo\src\main\resources\static" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace\seckill-demo\src\main\resources\static" />
+      <recent name="D:\workspace\seckill-demo\src\main\resources\static\img" />
+      <recent name="D:\workspace\seckill-demo\src\main\resources\mapper" />
+      <recent name="D:\workspace\seckill-demo\src\main\java\com\xxxx\seckill\service\impl" />
+      <recent name="D:\workspace\seckill-demo\src\main\java\com\xxxx\seckill\service" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.xxxx.seckill.config" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SeckillDemoApplication">
+    <configuration name="MD5Util" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xxxx.seckill.utils.MD5Util" />
+      <module name="seckill-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xxxx.seckill.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xxxx.seckill.utils.UserUtil" />
+      <module name="seckill-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xxxx.seckill.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeckillDemoApplicationTests.testLock01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="seckill-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xxxx.seckill.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xxxx.seckill" />
+      <option name="MAIN_CLASS_NAME" value="com.xxxx.seckill.SeckillDemoApplicationTests" />
+      <option name="METHOD_NAME" value="testLock01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeckillDemoApplicationTests.testLock02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="seckill-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xxxx.seckill.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xxxx.seckill" />
+      <option name="MAIN_CLASS_NAME" value="com.xxxx.seckill.SeckillDemoApplicationTests" />
+      <option name="METHOD_NAME" value="testLock02" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeckillDemoApplicationTests.testLock03" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="seckill-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xxxx.seckill.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xxxx.seckill" />
+      <option name="MAIN_CLASS_NAME" value="com.xxxx.seckill.SeckillDemoApplicationTests" />
+      <option name="METHOD_NAME" value="testLock03" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeckillDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="seckill-demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xxxx.seckill.SeckillDemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.UserUtil" />
+        <item itemvalue="JUnit.SeckillDemoApplicationTests.testLock03" />
+        <item itemvalue="JUnit.SeckillDemoApplicationTests.testLock02" />
+        <item itemvalue="JUnit.SeckillDemoApplicationTests.testLock01" />
+        <item itemvalue="Application.MD5Util" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+    <option name="myConnectionType" value="NONE" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3016c930-e664-4375-a422-53575a793881" name="Default Changelist" comment="" />
+      <created>1602645482468</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602645482468</updated>
+      <workItem from="1602645483999" duration="7569000" />
+      <workItem from="1602666527582" duration="30000" />
+      <workItem from="1602666582590" duration="100000" />
+      <workItem from="1602666706925" duration="28000" />
+      <workItem from="1602666759246" duration="75000" />
+      <workItem from="1602666859591" duration="1470000" />
+      <workItem from="1602988337893" duration="12212000" />
+      <workItem from="1603090588435" duration="467000" />
+      <workItem from="1603091063811" duration="32000" />
+      <workItem from="1603201096527" duration="187000" />
+      <workItem from="1603248833869" duration="4072000" />
+      <workItem from="1604127584750" duration="44000" />
+      <workItem from="1604130459215" duration="787000" />
+      <workItem from="1604131782242" duration="315000" />
+      <workItem from="1604132202464" duration="12000" />
+      <workItem from="1604132515088" duration="63000" />
+      <workItem from="1604133409845" duration="218000" />
+      <workItem from="1604133751715" duration="142000" />
+      <workItem from="1604133952800" duration="4000" />
+      <workItem from="1604134045113" duration="100000" />
+      <workItem from="1604134183613" duration="1148000" />
+      <workItem from="1604135352761" duration="459000" />
+      <workItem from="1604135971181" duration="286000" />
+      <workItem from="1604136762737" duration="14000" />
+      <workItem from="1604137256472" duration="794000" />
+      <workItem from="1604145165972" duration="597000" />
+      <workItem from="1604210629824" duration="10969000" />
+      <workItem from="1604739245828" duration="15000" />
+      <workItem from="1604739265583" duration="165000" />
+      <workItem from="1604909050814" duration="8000" />
+      <workItem from="1605419114081" duration="1029000" />
+      <workItem from="1605420643262" duration="10773000" />
+      <workItem from="1605690234730" duration="353000" />
+      <workItem from="1605692521175" duration="603000" />
+      <workItem from="1607129258221" duration="3559000" />
+      <workItem from="1607237390191" duration="14940000" />
+      <workItem from="1608438265570" duration="15643000" />
+      <workItem from="1609038775583" duration="642000" />
+      <workItem from="1609039476383" duration="16350000" />
+      <workItem from="1612752507637" duration="4218000" />
+      <workItem from="1612837083725" duration="1613000" />
+      <workItem from="1613220180452" duration="1651000" />
+      <workItem from="1613270484333" duration="4798000" />
+      <workItem from="1613445712265" duration="1333000" />
+      <workItem from="1613451345368" duration="1381000" />
+      <workItem from="1613463302111" duration="307000" />
+      <workItem from="1613531025819" duration="5856000" />
+      <workItem from="1613617365706" duration="1242000" />
+      <workItem from="1613652734481" duration="1566000" />
+      <workItem from="1613706076188" duration="2135000" />
+      <workItem from="1613785015777" duration="1790000" />
+      <workItem from="1613977068786" duration="1357000" />
+      <workItem from="1614563434532" duration="599000" />
+      <workItem from="1614575882857" duration="4624000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="422" y="162" width="596" height="536" key="find.popup" timestamp="1614582243480">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="422" y="162" width="596" height="536" key="find.popup/-1920.-182.1920.1040/0.0.1440.860@0.0.1440.860" timestamp="1614582243480" />
+    <state x="383" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1614582161217">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="383" y="180" width="672" height="678" key="search.everywhere.popup/-1920.-182.1920.1040/0.0.1440.860@0.0.1440.860" timestamp="1614582161217" />
+  </component>
+</project>
